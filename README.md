@@ -9,7 +9,7 @@ You are working for a MNC such as Google as a lead Data Analyst and the company 
 
 You are required to provide a detailed report for the below data record mentioning the answers of the questions that follows:
 
-You are given a dataset(**Statistics.xlsx**) of a company where the details about people who registered for a particular post in a department of this company. You are required to use your knowledge in statistics and use different formulas in excel and draw necessary conclusions about the company.
+You are given a dataset (**Statistics.xlsx**) of a company where the details about people who registered for a particular post in a department of this company. You are required to use your knowledge in statistics and use different formulas in excel and draw necessary conclusions about the company.
 
 Use the below Steps for EDA
 
