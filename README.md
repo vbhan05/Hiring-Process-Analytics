@@ -24,11 +24,15 @@ After downloading the dataset, use Excel or Google Sheets to answer the below qu
 
 A. Hiring: Process of intaking of people into an organization for different kinds of positions.
   Your task: How many males and females are Hired ?
+  
 B. Average Salary: Adding all the salaries for a select group of employees and then dividing the sum by the number of employees in the group.
   Your task: What is the average salary offered in this company ?
+  
 C. Class Intervals: The class interval is the difference between the upper class limit and the lower class limit.
   Your task: Draw the class intervals for salary in the company ?
+  
 D. Charts and Plots: This is one of the most important part of analysis to visualize the data.
   Your task: Draw Pie Chart / Bar Graph ( or any other graph ) to show proportion of people working different department ?
+  
 E. Charts: Use different charts and graphs to perform the task representing the data.
   Your task: Represent different post tiers using chart/graph?
